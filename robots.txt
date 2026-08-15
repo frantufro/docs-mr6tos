@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-8kms0z.siaranbola.vip/sitemap.xml
